@@ -1,0 +1,29 @@
+
+
+body {background-color:black;}
+
+
+h1 {color:white;
+font-family: verdana;
+font-size: 150%;
+margin: 50PX;
+text-align: center;}
+
+
+h2 {color: white;
+font-family: verdana;
+font-size: 150%;
+margin: 50PX;
+text-align: center;}
+
+
+p {color: yellow;
+font-size: 120%;
+border: 3px solid red;
+padding: 30px;
+margin: 50px;
+}
+
+
+
+
